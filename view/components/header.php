@@ -28,6 +28,18 @@
           <a class="navbar-item" href="../view/tribute.php">Tribute</a>
         </div>
       </div>
+
+      <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="buttons">
+          <a class="button is-primary" href="../view/signup.php">
+            <strong>Sign up</strong>
+          </a>
+          <a class="button is-light" href="../view/login.php">
+            Log in
+          </a>
+        </div>
+      </div>
     </nav>
     </header>
 </html>
