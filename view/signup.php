@@ -8,11 +8,11 @@
     </head>
     <body>
     <?php include 'components/header.php' ?>
-
+    <form method="POST">
         <div class="field">
         <label class="label">Username</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-success" type="text" placeholder="Username">
+            <input class="input" type="text" placeholder="Username">
             <span class="icon is-small is-left">
             <i class="fas fa-user"></i>
             </span>
@@ -25,7 +25,7 @@
         <div class="field">
         <label class="label">Email</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-danger" type="email" placeholder="Email@...">
+            <input class="input" type="email" placeholder="Email@...">
             <span class="icon is-small is-left">
             <i class="fas fa-envelope"></i>
             </span>
@@ -38,7 +38,7 @@
         <div class="field">
         <label class="label">Password</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-danger" type="password" placeholder="Password...">
+            <input class="input" type="password" placeholder="Password...">
             <span class="icon is-small is-left">
             <i class="fas fa-envelope"></i>
             </span>
@@ -51,7 +51,7 @@
         <div class="field">
         <label class="label">Confirm password</label>
         <div class="control has-icons-left has-icons-right">
-            <input class="input is-danger" type="password" placeholder="Password...">
+            <input class="input" type="password" placeholder="Password...">
             <span class="icon is-small is-left">
             <i class="fas fa-envelope"></i>
             </span>
@@ -69,7 +69,7 @@
             <button class="button is-link is-light">Cancel</button>
         </div>
         </div>
-
+    </form>
     <?php include 'components/footer.php' ?>    
     </body>
 </html> 
