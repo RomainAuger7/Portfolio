@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../assets/css/faitdarmes.css"/>
+        <link rel="stylesheet" href="../assets/css/arena.css"/>
         <title>Portfolio | Romain Auger</title>
     </head>
     <body>

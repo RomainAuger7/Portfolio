@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../assets/css/hommage.css"/>
+        <link rel="stylesheet" href="../assets/css/tribute.css"/>
         <title>Portfolio | Romain Auger</title>
     </head>
     <body>
@@ -11,10 +11,11 @@
         <section>
             <br/>
             <div id="triste">
-                <p>Rip in peace :'(</p>
+                <p class="has-text-centered">
+                    <strong>Here lies the grave of Romain Auger (209-1236)</strong>
+                </p>
                 <img class="rip" src="../assets/media/rip.jpg"/>
             </div>
-            
         </section>
     <?php include 'components/footer.php' ?>    
     </body>

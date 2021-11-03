@@ -5,8 +5,8 @@
         <p class="title">
           Romain Auger
         </p>
-        <p class="subtitle">
-          Développeur web
+        <p class="subtitle">    
+          Web developer
         </p>
       </div>
     </section>
@@ -21,15 +21,13 @@
 
       <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
-          <a class="navbar-item" href="../view/index.php">Accueil</a>
+          <a class="navbar-item" href="../view/home.php">Home</a>
 
-          <a class="navbar-item" href="../view/faitdarmes.php">Fait d'armes</a>
+          <a class="navbar-item" href="../view/arena.php">Arena</a>
 
-          <a class="navbar-item" href="../view/hommage.php">Hommage</a>
+          <a class="navbar-item" href="../view/tribute.php">Tribute</a>
         </div>
       </div>
-
     </nav>
-
     </header>
 </html>
