@@ -5,7 +5,6 @@ class Pokemon{
     private $name;
     private $type;
     private $health;
-    private $target;
 
     //Constructor
     public function __construct(string $name, string $type, int $health)

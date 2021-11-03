@@ -4,7 +4,7 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../assets/styles/tribute.css"/>
-        <title>Portfolio | Romain Auger</title>
+        <title>Tribute | Romain Auger</title>
     </head>
     <body>
     <?php include 'components/header.php' ?>

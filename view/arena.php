@@ -9,7 +9,7 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../assets/styles/arena.css"/>
-        <title>Portfolio | Romain Auger</title>
+        <title>Arena | Romain Auger</title>
     </head>
     <body>
     <?php include 'components/header.php' ?>
@@ -45,7 +45,7 @@
             </h3>
         </p>
         </br>
-        <button onClick="window.location.reload();">Fight again !!</button>
+        <button class="button is-danger" onClick="window.location.reload();">Fight again !</button>
     <?php include 'components/footer.php' ?>
     </body>
 </html> 
