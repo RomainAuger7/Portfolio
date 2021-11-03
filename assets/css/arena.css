@@ -1,3 +1,5 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma-rtl.min.css";
+
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: whitesmoke;
@@ -9,26 +11,12 @@ body{
     background-color: gainsboro;
 }
 
-a{
-    color: black;
-    text-decoration: underline;
-}
-
 @media (hover: hover) {
     a:hover {
       color: #681270;
     }
   }
 
-nav{
-    display: block;
-    background-color: rgb(255, 255, 255);
-    width: 120px;
-    height: 120px;
-    outline: solid;
-    outline-width: 3px;
-    outline-color: black;
-}
 
 p{
     font-family: 'Courier New', Courier, monospace;
