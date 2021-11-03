@@ -7,7 +7,7 @@
         <title>Portfolio | Romain Auger</title>
     </head>
     <body>
-         
+    <?php include 'components/header.php' ?>
         <section>
             <br/>
             <div id="triste">
@@ -16,5 +16,6 @@
             </div>
             
         </section>
+    <?php include 'components/footer.php' ?>    
     </body>
 </html> 

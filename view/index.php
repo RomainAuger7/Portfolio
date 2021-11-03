@@ -7,7 +7,7 @@
         <title>Portfolio | Romain Auger</title>
     </head>
     <body>
-      
+    <?php include 'components/header.php' ?>
        
             <br/>
             <article>
@@ -17,5 +17,6 @@
                     <img class="gladiator" src="../assets/media/gladiator.jpg"/>
                 </div>
             </article>
+    <?php include 'components/footer.php' ?>        
     </body>
 </html> 

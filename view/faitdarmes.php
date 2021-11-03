@@ -7,12 +7,12 @@
         <title>Portfolio | Romain Auger</title>
     </head>
     <body>
-    
+    <?php include 'components/header.php' ?>
         <article>
             <div>
                 
             </div>
         </article>
-        
+    <?php include 'components/footer.php' ?>
     </body>
 </html> 
